@@ -3,4 +3,4 @@
 
 Case Study #1 - Danny's Diner
 
-https://8weeksqlchallenge.com/images/case-study-designs/1.png![image](https://user-images.githubusercontent.com/72542241/155886084-ca66ce10-c569-43ef-b94b-5148758f1a6b.png)
+![danny](https://user-images.githubusercontent.com/72542241/155886178-8cdbb8fa-7d9f-490f-9e6a-de05ad6071de.png)
