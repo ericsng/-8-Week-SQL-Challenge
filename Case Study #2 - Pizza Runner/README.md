@@ -17,3 +17,14 @@ Available Data
 Because Danny had a few years of experience as a data scientist - he was very aware that data collection was going to be critical for his business’ growth.
 
 He has prepared for us an entity relationship diagram of his database design but requires further assistance to clean his data and apply some basic calculations so he can better direct his runners and optimise Pizza Runner’s operations.
+
+Danny has shared with you 6 key datasets for this case study:
+
+1) runners
+2) customer_orders
+3) runner_orders
+4) pizza_names
+5) pizza_recipes
+6) pizza_toppings
+
+
