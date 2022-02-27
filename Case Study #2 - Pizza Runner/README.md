@@ -27,4 +27,5 @@ Danny has shared with you 6 key datasets for this case study:
 5) pizza_recipes
 6) pizza_toppings
 
-
+More information on the entity relationship diagram and example data can be found here:
+https://8weeksqlchallenge.com/case-study-2/
