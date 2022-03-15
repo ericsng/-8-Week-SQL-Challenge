@@ -11,3 +11,7 @@ Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and 
 
 Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
+Danny has shared with you 2 key datasets for this case study:
+
+1) Plans
+2) Subscriptions
