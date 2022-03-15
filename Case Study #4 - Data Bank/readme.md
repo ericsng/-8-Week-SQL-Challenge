@@ -21,3 +21,6 @@ Danny has shared with you 2 key datasets for this case study:
 1) Regions
 2) Customer Nodes
 3) Customer Transactions
+
+
+More information on the entity relationship diagram and example data can be found here: https://8weeksqlchallenge.com/case-study-4/
