@@ -15,3 +15,5 @@ Danny has shared with you 2 key datasets for this case study:
 
 1) Plans
 2) Subscriptions
+
+More information on the entity relationship diagram and example data can be found here: https://8weeksqlchallenge.com/case-study-3/
